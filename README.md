@@ -34,4 +34,20 @@ Profit/Loss from Stock Gain/Fall: $1000.00
 
 Profit/Loss from Dividends: $500.00
 
-Unrealized Gains/Losses: $200.00
+Unrealized Gains/Losses (based on the latest transaction price): $200.00
+
+## Advanced Level III task
+
+### Task: 
+
+Conduct an analysis of the portfolio analytics at LHV Pank. Provide insights into what is working well in the current analytics setup and identify any gaps or areas that could be improved. You might analyze how well the current system tracks performance metrics, identify missing data points, or suggest enhancements to existing tools.
+
+### What's working well:
+
+The "My Investments" section is minimalistic and straightforward, making it easy to read and understand the current portfolio.
+
+### Areas for Improvement:
+
+There is no historical chart showing how your portfolio has performed over time. Another great enhancement would be to include a feature that allows you to toggle and highlight specific actions - such as buy and sell transactions or significant stock events like earnings reports directly on the chart.
+
+![image](https://github.com/user-attachments/assets/e0af74dc-a2b3-40c4-b5e0-79ad3ee17f8e)
